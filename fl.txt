@@ -1,7 +1,7 @@
 {
 "spider":/fl.jar",
 
-"壁纸": "http://maoyingshi.cc/api.php"
+ "wallpaper": "http://maoyingshi.cc/api.php"
 
 "sites":[
 
