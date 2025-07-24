@@ -1,52 +1,52 @@
 {
-"spider":"https://www.bestpvp.site/tvbox/jar/custom_spider_stable.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./18TV.txt"]}]}],
-"wallpaper":"http://maoyingshi.cc/api.php",
+"spider":/fl.jar",
+
+"壁纸": "http://maoyingshi.cc/api.php"
 
 "sites":[
 
 
-{"key":"乐播资源","name":"乐播资源","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"乐播资源","name":"乐播资源","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1}
      {
             "key": "丝袜资源",
-            "name": "丝袜┃资源",
-            "type": 1,
+            "名称": "丝袜┃资源"
+            "类型": 1,
             "api": "https://siwazyw.tv/api.php/provide/vod/",
-            "searchable": 1,
+            "可搜索的": 1,
             "changeable": 1,
-            "categories": [
-                "亚洲无码",
-                "亚洲有码",
-                "欧美情色",
-                "中文字幕",
-                "动漫卡通",
-                "美女主播",
-                "人妻熟女",
-                "日韩伦理",
-                "国产自拍",
-                "精选口爆",
-                "同性同志",
-                "重口味",
-                "91大神",
+            "分类": [
+                "亚洲无码"
+                "亚洲有码"
+                "欧美情色"
+                中文字幕
+                "动漫卡通"
+                美女主播
+                "人妻熟女"
+                "日韩伦理"
+                "国产自拍"
+                "精选口爆"
+                “同性同志”
+                "重口味"
+                "91大神"
                 "AV解说"
             ]
-        },
+        }
 		 
 		 {
-            "key": "特色资源",
-            "name": "特色┃资源",
-            "type": 0,
+            "key": "特色资源"
+            "名称": "特色┃资源"
+            "类型": 0,
             "api": "https://www.xrbsp.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
+            "可搜索的": 1,
+            "快速搜索": 1,
             "filterable": 1
-        },
+        }
 		 {
-            "key": "白嫖资源",
-            "name": "🔞白嫖┃资源",
-            "type": 0,
+            "key": "白嫖资源"
+            "名称": "白嫖┃资源"
+            "类型": 0,
             "api": "https://www.kxgav.com/api/xml.php",
-            "searchable": 1,
+            "可搜索的": 1,
             "quickSearch": 1
         },
 
