@@ -1,11 +1,6 @@
 {
     "spider": "./fl.jar",
     "wallpaper": "https://img.qovv.cn/2024/04/28/662e5b8749c16.jpg",
-
-
-{
-  "spider": "./fan.txt;md5;73c62850faf556c9c2d7048baf3a5d3a",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
 {
 "sites":[
 {"key":"乐播资源",
